@@ -2,7 +2,7 @@
 
 
 **Cloud Security Architect**  
-Specializing in enterprise identity, Zero Trust architecture, and multi-cloud IAM strategies.
+Specializing in Enterprise Identity, Zero Trust architecture, and Multi-Cloud IAM strategies.
 
 ---
 
